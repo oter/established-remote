@@ -125,6 +125,7 @@ Notes:
 
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)
+* [JobsCollider (~30,000 remote jobs)](https://jobscollider.com/remote-jobs)
 * [NODESK](https://nodesk.co/remote-jobs/)
 * [OkJob (4 day week jobs)](https://okjob.io/remote-4-day-work-week/)
 * [Real Work From Anywhere](https://www.realworkfromanywhere.com/)
